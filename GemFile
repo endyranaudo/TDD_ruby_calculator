@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+# gem 'nokogiri'
+# gem 'rack', '~> 2.0.1'
+# gem 'activerecord'
+# gem 'sinatra-activerecord'
+# gem 'rake'
+# gem 'require_all'
+# gem 'sqlite3'
+gem 'rspec'
+gem 'pry', '~> 0.12.2'
+gem 'tty-prompt'
